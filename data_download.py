@@ -51,14 +51,16 @@ data = load_data()
 data['Dcename_22'] = np.where(data['Dcename_22'].isnull(), data['Dcename_21'], data['Dcename_22'])
 data['State_22'] = np.where(data['State_22'].isnull(), data['State_21'], data['State_22'])
 data['Dcename_21'] = np.where(data['Dcename_21'].isnull(), data['Dcename_22'], data['Dcename_21'])
-
+data['Saving per Bene 22']=data["Netsavings_(loss)_22"]/data["Totalbene-_ficiaries_22"]
+data['Saving per Bene 22']=data['Saving per Bene 22'].round(2)
+data['Saving per Bene 22']
 #converting to rates from decimals
 data.to_csv("D:\CMS_GPDC\downloaded_data_2122.csv")
 
 data=data[["Dcename_21","State_22",
 "Risk_arrangement_21", "Risk_arrangement_22",
 "Totalbene-_ficiaries_21", "Totalbene-_ficiaries_22",
-"Netsavingsrate_21", "Netsavingsrate_22"]]
+"Netsavingsrate_21", "Netsavingsrate_22",'Saving per Bene 22']]
 
 #get column names ready for presentation on site
 data.rename(columns={
@@ -69,7 +71,8 @@ data.rename(columns={
 "Totalbene-_ficiaries_21":"Total Benes 21",
 "Totalbene-_ficiaries_22":"Total Benes 22",
 "Netsavingsrate_21":"Net Savings Rate 21 (%)",
-"Netsavingsrate_22":"Net Savings Rate 22 (%)"
+"Netsavingsrate_22":"Net Savings Rate 22 (%)",
+'Saving per Bene 22':'Saving per Bene 22 ($)'
 }, inplace=True)
 
 #limited data that had a risk arrangement change
@@ -84,7 +87,7 @@ data3.to_csv("D:\CMS_GPDC\DCE_sig_bene_change.csv")
 
 #Full data that is clean
 
-data4=data[[ "DCE Name", "State", "Total Benes 21","Total Benes 22", "Net Savings Rate 21 (%)", "Net Savings Rate 22 (%)"]]
+data4=data[[ "DCE Name", "State", "Total Benes 21","Total Benes 22", "Net Savings Rate 21 (%)", "Net Savings Rate 22 (%)","Saving per Bene 22 ($)"]]
 
 data4.to_csv("D:\CMS_GPDC\DCE_abbrev_table.csv")
 
