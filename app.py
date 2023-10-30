@@ -10,8 +10,9 @@ data=pd.read_csv(r"https://raw.githubusercontent.com/mangospace/ACO_DCE_21_22/ma
 #st.markdown("<h1 style='text-align: center; color: black;'>Direct Contracting Entity (DCE) Performance</h1>", unsafe_allow_html=True)
 
 url="https://www.cms.gov/priorities/innovation/innovation-models/gpdc-model"
-st.markdown("<h1 style='text-align: center; color: black;'>Direct Contracting Entity (DCE) Performance</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: black;'>Direct Contracting Entity (DCE) Performance in CMS GPDC Model</h1>", unsafe_allow_html=True)
 st.markdown('<h4 style="text-align: center;"><a href="https://www.cms.gov/priorities/innovation/innovation-models/gpdc-model">Source: CMS GPDC Updated Oct 2023</a></h4>', unsafe_allow_html=True)
+st.caption('Please share your feedback and suggestions. DM @manas8u')
 
 selected_dce = st.selectbox("Select DCE", data["Dcename_22"].unique())
 
@@ -64,3 +65,6 @@ st.markdown("<h2 style='text-align: center; color: black;'>DCE Entities and thei
 data4=pd.read_csv("https://raw.githubusercontent.com/mangospace/ACO_DCE_21_22/main/DCE_abbrev_table.csv")
 data4=data4.drop(columns=['Unnamed: 0'])
 st.dataframe(data4, hide_index=True)
+
+st.divider()
+st.caption('There is not sufficient variation in quality performance among DCEs and therefore, results are not presented.')
