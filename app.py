@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import numpy as np
 
 # Step 1: Read the downloaded and merged data
-data=pd.read_csv("D:\CMS_GPDC\downloaded_data_2122.csv")
+data=pd.read_csv(r"https://raw.githubusercontent.com/mangospace/ACO_DCE_21_22/main/downloaded_data_2122.csv")
 
 # Step 2: Streamlit app
 st.markdown("<h1 style='text-align: center; color: black;'>Direct Contracting Entity (DCE) Performance</h1>", unsafe_allow_html=True)
