@@ -2,13 +2,13 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 import numpy as np
-
+import streamlit_analytics
 # Step 1: Read the downloaded and merged data
 data=pd.read_csv(r"https://raw.githubusercontent.com/mangospace/ACO_DCE_21_22/main/downloaded_data_2122.csv")
 
 # Step 2: Streamlit app
 #st.markdown("<h1 style='text-align: center; color: black;'>Direct Contracting Entity (DCE) Performance</h1>", unsafe_allow_html=True)
-
+streamlit_analytics.start_tracking()
 url="https://www.cms.gov/priorities/innovation/innovation-models/gpdc-model"
 st.markdown("<h1 style='text-align: center; color: black;'>Direct Contracting Entity (DCE) Performance in CMS GPDC Model</h1>", unsafe_allow_html=True)
 st.markdown('<h4 style="text-align: center;"><a href="https://www.cms.gov/priorities/innovation/innovation-models/gpdc-model">Source: CMS GPDC Updated Oct 2023</a></h4>', unsafe_allow_html=True)
@@ -68,3 +68,4 @@ st.dataframe(data4, hide_index=True)
 
 st.divider()
 st.caption('There is not sufficient variation in quality performance among DCEs and therefore, results are not presented.')
+streamlit_analytics.stop_tracking()
