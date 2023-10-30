@@ -38,19 +38,19 @@ fig.update_xaxes(tickvals=[2021, 2022])
 # Display the chart
 st.plotly_chart(fig)
 
-data2=pd.read_csv("D:\CMS_GPDC\DCE_risk_arrangement_change.csv")
+data2=pd.read_csv("https://raw.githubusercontent.com/mangospace/ACO_DCE_21_22/main/DCE_risk_arrangement_change.csv")
 data2=data2.drop(columns=['Unnamed: 0'])
 st.markdown("<h2 style='text-align: center; color: black;'>DCE Entities that have changed Risk Arrangements,  joined or left in 2022</h2>", unsafe_allow_html=True)
 st.dataframe(data2, hide_index=True)
 
 #limited data that had beneficiary change
-data3=pd.read_csv("D:\CMS_GPDC\DCE_sig_bene_change.csv")
+data3=pd.read_csv("https://raw.githubusercontent.com/mangospace/ACO_DCE_21_22/main/DCE_sig_bene_change.csv")
 data3=data3.drop(columns=['Unnamed: 0'])
 st.markdown("<h2 style='text-align: center; color: black;'>DCE Entities with > 10% change in beneficiaries</h2>", unsafe_allow_html=True)
 st.dataframe(data3, hide_index=True)
 
 #Full data that is clean
 st.markdown("<h2 style='text-align: center; color: black;'>DCE Entities and their performance (2021 and 2022)</h2>", unsafe_allow_html=True)
-data4=pd.read_csv("D:\CMS_GPDC\DCE_abbrev_table.csv")
+data4=pd.read_csv("https://raw.githubusercontent.com/mangospace/ACO_DCE_21_22/main/DCE_abbrev_table.csv")
 data4=data4.drop(columns=['Unnamed: 0'])
 st.dataframe(data4, hide_index=True)

@@ -1,59 +1,59 @@
 ,DCE Name,State,Risk Arrangement 21,Risk Arrangement 22,Total Benes 21,Total Benes 22,Net Savings Rate 21 (%),Net Savings Rate 22 (%)
-7,Advanced Value Care,NY,Global,,1629.0,,-3.91926047932353,
-10,CareMore,CA,Global,,1231.0,,-29.38711392170818,
-14,Pathways,FL,Professional,Global,7932.0,12373.0,2.251589664219334,8.068201776937958
-15,Piedmont Health,NC,Global,,214.0,,1.2120599759680437,
-24,AIP,VA,Professional,Global,372.0,2483.0,4.563264815493208,13.302372843169657
-35,AdventHealth,FL,Professional,Global,5369.0,5275.0,3.186303099041661,0.9771482211309572
-37,CareConnect,CA,Professional,Global,217.0,422.0,5.65907672890116,19.097889374042914
-49,Axceleran 1,NC,Global,,2023.0,,4.498157380261656,
-53,Iowa Health Accountable Care,IA,,Global,,103660.0,,-1.3630714476026242
-54,Primary Care Alliance,FL,,Global,,12267.0,,13.345907486315141
-55,Temple Center For Population Health,PA,,Professional,,7016.0,,0.1554798237643124
-56,Rancho Health Management,CA,,Global,,27509.0,,0.9416144216308276
-57,CareMount Value Partners IPA,NY,,Global,,27825.0,,2.719509543349336
-58,ADVANCED VALUE CARE  II,NY,,Global,,16000.0,,-4.782264774437751
-59,Indiana University Health ACO,IN,,Professional,,47016.0,,0.5107669991496531
-60,"Central Utah Clinic, P.C.",UT,,Global,,15333.0,,3.9777363090626703
-61,CareAllies Accountable Care Solutions,TX,,Global,,5396.0,,3.57335638712242
-62,Bluerock Care Community LLC,DC,,Professional,,1629.0,,-3.293380120067114
-63,EXCELERA DCE,CA,,Global,,22987.0,,1.7692328978648082
-64,"St. Luke's Clinic Coordinated Care, Ltd",ID,,Global,,24652.0,,3.0350706526938316
-65,CVS Accountable Care Organization,NY,,Professional,,388.0,,2.3498341581175963
-66,Asaar Medical,FL,,Global,,64396.0,,1.9949477272851062
-67,Midwest DCE,NY,,Professional,,1293.0,,-0.02537804960287454
-68,Health Partners for the Elderly LLC,FL,,Global,,5355.0,,-7.411206009647808
-69,Bloom Health Network LLC,CO,,Global,,1177.0,,26.56079112583742
-70,ATLAS IPA,NY,,Global,,1111.0,,2.359567482566809
-71,Auxilium Health Network,CA,,Professional,,4059.0,,-1.5504588319616477
-72,Giatros Health,CA,,Global,,1336.0,,9.376968434597526
-73,agilon health Coastal DCE,CA,,Global,,6998.0,,7.279826474148068
-74,agilon health Northeastern DCE,CA,,Global,,13907.0,,4.860722793113318
-75,Accountable Care Coalition of Southeast Texas,TX,,Global,,7331.0,,3.9905438222533007
-76,Accountable Care Coalition of Direct Contracting,TX,,Global,,29490.0,,-0.943500596837292
-77,Cityblock Health DCE,NY,,Professional,,3662.0,,-3.076743063299857
-78,Q Point Health,AZ,,Professional,,9543.0,,-4.342785960925566
+7,Advanced Value Care,NY,Global,,1629.0,,-3.92,
+10,CareMore,CA,Global,,1231.0,,-29.39,
+14,Pathways,FL,Professional,Global,7932.0,12373.0,2.25,8.07
+15,Piedmont Health,NC,Global,,214.0,,1.21,
+24,AIP,VA,Professional,Global,372.0,2483.0,4.5600000000000005,13.3
+35,AdventHealth,FL,Professional,Global,5369.0,5275.0,3.19,0.98
+37,CareConnect,CA,Professional,Global,217.0,422.0,5.66,19.1
+49,Axceleran 1,NC,Global,,2023.0,,4.5,
+53,Iowa Health Accountable Care,IA,,Global,,103660.0,,-1.3599999999999999
+54,Primary Care Alliance,FL,,Global,,12267.0,,13.350000000000001
+55,Temple Center For Population Health,PA,,Professional,,7016.0,,0.16
+56,Rancho Health Management,CA,,Global,,27509.0,,0.9400000000000001
+57,CareMount Value Partners IPA,NY,,Global,,27825.0,,2.7199999999999998
+58,ADVANCED VALUE CARE  II,NY,,Global,,16000.0,,-4.78
+59,Indiana University Health ACO,IN,,Professional,,47016.0,,0.51
+60,"Central Utah Clinic, P.C.",UT,,Global,,15333.0,,3.9800000000000004
+61,CareAllies Accountable Care Solutions,TX,,Global,,5396.0,,3.5700000000000003
+62,Bluerock Care Community LLC,DC,,Professional,,1629.0,,-3.29
+63,EXCELERA DCE,CA,,Global,,22987.0,,1.77
+64,"St. Luke's Clinic Coordinated Care, Ltd",ID,,Global,,24652.0,,3.04
+65,CVS Accountable Care Organization,NY,,Professional,,388.0,,2.35
+66,Asaar Medical,FL,,Global,,64396.0,,1.9900000000000002
+67,Midwest DCE,NY,,Professional,,1293.0,,-0.03
+68,Health Partners for the Elderly LLC,FL,,Global,,5355.0,,-7.41
+69,Bloom Health Network LLC,CO,,Global,,1177.0,,26.56
+70,ATLAS IPA,NY,,Global,,1111.0,,2.36
+71,Auxilium Health Network,CA,,Professional,,4059.0,,-1.55
+72,Giatros Health,CA,,Global,,1336.0,,9.379999999999999
+73,agilon health Coastal DCE,CA,,Global,,6998.0,,7.28
+74,agilon health Northeastern DCE,CA,,Global,,13907.0,,4.859999999999999
+75,Accountable Care Coalition of Southeast Texas,TX,,Global,,7331.0,,3.9899999999999998
+76,Accountable Care Coalition of Direct Contracting,TX,,Global,,29490.0,,-0.9400000000000001
+77,Cityblock Health DCE,NY,,Professional,,3662.0,,-3.08
+78,Q Point Health,AZ,,Professional,,9543.0,,-4.34
 79,24/7 Health Plan Inc,CA,,Professional,,217.0,,0.0
-80,Steward Integrated Care Network,MA,,Professional,,8973.0,,0.7731620165841678
-81,Renown Direct Contracting Entity,NV,,Global,,12645.0,,2.070965480083744
-82,Castell Accountable Care,UT,,Global,,49111.0,,5.841423837412687
-83,Esse Health ACO,MO,,Global,,56991.0,,2.7172883467097346
-84,Fairview Health Services,MN,,Professional,,24198.0,,1.9887055172721428
-85,SwingHealth,FL,,Global,,24854.0,,-3.001477259794412
-86,NeueHealth Advantage ACO,MN,,Global,,32285.0,,-0.496483076564947
-87,Florence CIN II LLC,CA,,Global,,14964.0,,-7.906430986892488
-88,agilon health Mid-Atlantic DCE,CA,,Global,,10557.0,,11.011360627831634
-89,Sutter Preferred Direct Contracting Entity,CA,,Professional,,118690.0,,-2.530017483243561
-90,Physician Leaders Direct Contracting Entity,NY,,Global,,10797.0,,5.563036491333846
-91,NW Momentum Health Partners ACO,WA,,Professional,,25341.0,,0.9362396123209585
-92,NeueHealth Premier ACO,MN,,Global,,17550.0,,8.827477346189328
-93,Doctors Choice Medical Group,CA,,Global,,2786.0,,-4.103173202019732
-94,FREEDOM PHYSICIANS CORPORATION,CA,,Global,,3373.0,,-1.7533886824318736
-95,Hudson Accountable Care,NY,,Global,,8289.0,,-2.2659876477186773
-96,Park Nicollet Health Services ACO LLC,MN,,Professional,,36323.0,,-0.2146033143819225
-97,Triad HealthCare Network,NC,,Global,,24692.0,,3.0509210807316562
-98,UT Southwestern Accountable Care Network,TX,,Professional,,115731.0,,1.7789450125865536
-99,Arizona Care Network - Next,AZ,,Professional,,26122.0,,1.814763158325737
-100,APA ACO,CA,,Global,,21429.0,,0.3519542418809436
-101,UW Health ACO,WI,,Professional,,24343.0,,0.9222093319530155
-102,Reliant Medical Group,MA,,Global,,10968.0,,10.834424562316944
+80,Steward Integrated Care Network,MA,,Professional,,8973.0,,0.77
+81,Renown Direct Contracting Entity,NV,,Global,,12645.0,,2.07
+82,Castell Accountable Care,UT,,Global,,49111.0,,5.84
+83,Esse Health ACO,MO,,Global,,56991.0,,2.7199999999999998
+84,Fairview Health Services,MN,,Professional,,24198.0,,1.9900000000000002
+85,SwingHealth,FL,,Global,,24854.0,,-3.0
+86,NeueHealth Advantage ACO,MN,,Global,,32285.0,,-0.5
+87,Florence CIN II LLC,CA,,Global,,14964.0,,-7.91
+88,agilon health Mid-Atlantic DCE,CA,,Global,,10557.0,,11.01
+89,Sutter Preferred Direct Contracting Entity,CA,,Professional,,118690.0,,-2.53
+90,Physician Leaders Direct Contracting Entity,NY,,Global,,10797.0,,5.56
+91,NW Momentum Health Partners ACO,WA,,Professional,,25341.0,,0.9400000000000001
+92,NeueHealth Premier ACO,MN,,Global,,17550.0,,8.83
+93,Doctors Choice Medical Group,CA,,Global,,2786.0,,-4.1000000000000005
+94,FREEDOM PHYSICIANS CORPORATION,CA,,Global,,3373.0,,-1.7500000000000002
+95,Hudson Accountable Care,NY,,Global,,8289.0,,-2.27
+96,Park Nicollet Health Services ACO LLC,MN,,Professional,,36323.0,,-0.21
+97,Triad HealthCare Network,NC,,Global,,24692.0,,3.05
+98,UT Southwestern Accountable Care Network,TX,,Professional,,115731.0,,1.78
+99,Arizona Care Network - Next,AZ,,Professional,,26122.0,,1.81
+100,APA ACO,CA,,Global,,21429.0,,0.35000000000000003
+101,UW Health ACO,WI,,Professional,,24343.0,,0.9199999999999999
+102,Reliant Medical Group,MA,,Global,,10968.0,,10.83

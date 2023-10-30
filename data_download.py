@@ -19,6 +19,9 @@ def load_data():
             x=x.capitalize()            
             new_name.append(re.sub("$","_21",x))
     data_2021.columns = new_name
+    data_2021.dtypes
+    data_2021['Grosssavingsrate_21']=    100*data_2021['Grosssavingsrate_21'].round(4)
+    data_2021['Netsavingsrate_21']=100*data_2021['Netsavingsrate_21'].round(4)
 
     data_2022 = pd.read_excel(url_2022, sheet_name="DCE-Level Results PY2022")
     new_name=[]
@@ -38,6 +41,8 @@ def load_data():
     data_2022['Dcename_22']=data_2022['Dcename_22'].str.replace(", LLC","")
     data_2022['Dcename_22']=data_2022['Dcename_22'].str.replace(", Inc","")
     data_2022['Dcename_22']=data_2022['Dcename_22'].str.replace(" Inc.","")
+    data_2022['Grosssavingsrate_22']=  100* data_2022['Grosssavingsrate_22'].round(4)
+    data_2022['Netsavingsrate_22']=100*data_2022['Netsavingsrate_22'].round(4)
     merged_data = pd.merge(data_2021, data_2022, on="DCEID", how="outer")
     return merged_data
 
@@ -48,10 +53,6 @@ data['State_22'] = np.where(data['State_22'].isnull(), data['State_21'], data['S
 data['Dcename_21'] = np.where(data['Dcename_21'].isnull(), data['Dcename_22'], data['Dcename_21'])
 
 #converting to rates from decimals
-data['Grosssavingsrate_21']=data['Grosssavingsrate_21']*100
-data['Netsavingsrate_21']=data['Netsavingsrate_21']*100
-data['Grosssavingsrate_22']=data['Grosssavingsrate_22']*100
-data['Netsavingsrate_22']=data['Netsavingsrate_22']*100
 data.to_csv("D:\CMS_GPDC\downloaded_data_2122.csv")
 
 data=data[["Dcename_21","State_22",
@@ -83,7 +84,7 @@ data3.to_csv("D:\CMS_GPDC\DCE_sig_bene_change.csv")
 
 #Full data that is clean
 
-data4=data[[ "DCE Name", "State", "Total Benes 21","Total Benes 22", "Net Savings Rate 21", "Net Savings Rate 22"]]
+data4=data[[ "DCE Name", "State", "Total Benes 21","Total Benes 22", "Net Savings Rate 21 (%)", "Net Savings Rate 22 (%)"]]
 
 data4.to_csv("D:\CMS_GPDC\DCE_abbrev_table.csv")
 
