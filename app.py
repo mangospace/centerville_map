@@ -2,25 +2,20 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 import numpy as np
-# Step 1: Read the downloaded and merged data
 
+# Step 1: Read the downloaded and merged data
 data=pd.read_csv("D:\CMS_GPDC\downloaded_data_2122.csv")
-data["Dcename_22"]=np.where(data["Dcename_22"]=="FREEDOM PHYSICIANS CORPORATION", "Freedom Physicians Corporation", data["Dcename_22"])
-data["Dcename_22"]=np.where(data["Dcename_22"]=="ADVANCED VALUE CARE  II", "Advanced Value Care II", data["Dcename_22"])
-data["Dcename_21"]=np.where(data["Dcename_21"]=="FREEDOM PHYSICIANS CORPORATION", "Freedom Physicians Corporation", data["Dcename_21"])
-data["Dcename_21"]=np.where(data["Dcename_21"]=="ADVANCED VALUE CARE  II", "Advanced Value Care II", data["Dcename_21"])
 
 # Step 2: Streamlit app
-st.title("DCE Performance Comparison")
-st.header("Select DCE Name")
-selected_dce = st.selectbox("Choose DCE Name", data["Dcename_22"].unique())
-#selected_dce="Iora Health NE DCE, LLC"
+st.markdown("<h1 style='text-align: center; color: black;'>Direct Contracting Entity (DCE) Performance</h1>", unsafe_allow_html=True)
+selected_dce = st.selectbox("Select DCE", data["Dcename_22"].unique())
+
 # Step 3: Filter data based on selected DCE Name
 df=pd.melt(data, id_vars='Dcename_22', value_vars=["Netsavingsrate_21","Netsavingsrate_22"], var_name='year', value_name='Netsavingsrate',)
-
 df['year'] = np.where(df['year']=="Netsavingsrate_21", "2021", "2022")
 df['year']=df['year'].astype('category')
 filtered_data = df[df["Dcename_22"] != selected_dce]
+
 # Step 4: Plotting
 fig = go.Figure()
 for x in filtered_data["Dcename_22"]:
@@ -42,31 +37,20 @@ fig.update_xaxes(tickvals=[2021, 2022])
 
 # Display the chart
 st.plotly_chart(fig)
-data=data[["Dcename_21","State_22",
-"Risk_arrangement_21", "Risk_arrangement_22",
-"Totalbene-_ficiaries_21", "Totalbene-_ficiaries_22",
-"Netsavingsrate_21", "Netsavingsrate_22"]]
 
-data.rename(columns={
-"Dcename_21":"DCE Name",
-"State_22":"State",
-"Risk_arrangement_21":"Risk Arrangement 21",
-"Risk_arrangement_22":"Risk Arrangement 22",
-"Totalbene-_ficiaries_21":"Total Benes 21",
-"Totalbene-_ficiaries_22":"Total Benes 22",
-"Netsavingsrate_21":"Net Savings Rate 21",
-"Netsavingsrate_22":"Net Savings Rate 22"
-}, inplace=True)
+data2=pd.read_csv("D:\CMS_GPDC\DCE_risk_arrangement_change.csv")
+data2=data2.drop(columns=['Unnamed: 0'])
+st.markdown("<h2 style='text-align: center; color: black;'>DCE Entities that have changed Risk Arrangements,  joined or left in 2022</h2>", unsafe_allow_html=True)
+st.dataframe(data2, hide_index=True)
 
-st.write("DCE Entities that have changed Risk Arrangements,  joined or left in 2022")
-data2=data[data["Risk Arrangement 21"]!=data["Risk Arrangement 22"]]
-st.dataframe(data2)
+#limited data that had beneficiary change
+data3=pd.read_csv("D:\CMS_GPDC\DCE_sig_bene_change.csv")
+data3=data3.drop(columns=['Unnamed: 0'])
+st.markdown("<h2 style='text-align: center; color: black;'>DCE Entities with > 10% change in beneficiaries</h2>", unsafe_allow_html=True)
+st.dataframe(data3, hide_index=True)
 
-st.write("DCE Entities with > 10% change in beneficiaries")
-data3=data[(1.1*data["Totalbenes 21"]<=data["Totalbenes 22"])| (data["Totalbenes 21"] <=0.9*data["Totalbenes 22"])]
-st.dataframe(data3)
-
-data4=data[[ "DCE Name", "State", "Total Benes 21","Total Benes 22", "Net Savings Rate 21", "Net Savings Rate 22"]]
-
-st.write("2021 and 2022 data of DCE Entities and their performance")
-st.dataframe(data4)
+#Full data that is clean
+st.markdown("<h2 style='text-align: center; color: black;'>DCE Entities and their performance (2021 and 2022)</h2>", unsafe_allow_html=True)
+data4=pd.read_csv("D:\CMS_GPDC\DCE_abbrev_table.csv")
+data4=data4.drop(columns=['Unnamed: 0'])
+st.dataframe(data4, hide_index=True)

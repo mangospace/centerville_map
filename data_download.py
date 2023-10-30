@@ -67,8 +67,8 @@ data.rename(columns={
 "Risk_arrangement_22":"Risk Arrangement 22",
 "Totalbene-_ficiaries_21":"Total Benes 21",
 "Totalbene-_ficiaries_22":"Total Benes 22",
-"Netsavingsrate_21":"Net Savings Rate 21",
-"Netsavingsrate_22":"Net Savings Rate 22"
+"Netsavingsrate_21":"Net Savings Rate 21 (%)",
+"Netsavingsrate_22":"Net Savings Rate 22 (%)"
 }, inplace=True)
 
 #limited data that had a risk arrangement change
