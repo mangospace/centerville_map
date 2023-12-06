@@ -1,247 +1,198 @@
-,latitude,longitude,Center_Name,Street_address,City,State-zip,Phone
-0,26.1668629,-97.6785117,CenterWell Harlingen,801 N Ed Carey Drive ,Harlingen, TX 78550,956-707-1513
-1,32.6629624,-96.87305699999999,CenterWell Redbird,3209 W Camp Wisdom Road ,Dallas, TX 75237,469-595-0297
-2,29.87119899999999,-95.4040177,CenterWell Little York,388 West Little York Road ,Houston, TX 77076,346-708-6254
-3,29.73777939999999,-95.5909202,CenterWell Westside,11978 Westheimer Road, Suite B,Houston,
-4,29.696793,-95.297155,CenterWell Gulfgate,545 Gulfgate Center Mall ,Houston, TX 77087,832-536-9678
-5,25.9255135,-97.5110322,CenterWell Brownsville,1454 Central Blvd ,Brownsville, TX 78520,956-539-7318
-6,29.6855314,-95.5290961,CenterWell Sharpstown,8708 S Gessner Drive, Suite K,Houston,
-7,29.7416961,-95.32422,CenterWell Downtown East,5104 Harrisburg Boulevard, Suite 800,Houston,
-8,30.0048498,-95.27696189999999,CenterWell Humble,9688 FM 1960 Bypass Road West ,Humble, TX 77338,281-519-3316
-9,29.774295,-95.232158,CenterWell Jacinto City,1910 John Ralston Road, Suite 200,Houston,
-10,32.8639427,-96.6440128,CenterWell South Garland,1205 Northwest Hwy. ,Garland, TX 75041,469-956-5978
-11,26.2678849,-98.17230359999999,CenterWell Edinburg,3601 S Business Hwy 281 ,Edinburg, TX 78539,956-300-2069
-12,26.1995503,-98.20636999999999,CenterWell McAllen,1201 E Business Hwy 83 ,McAllen, TX 78501,956-300-2824
-13,29.6659689,-95.1847066,CenterWell Pasadena,3915 Spencer Highway ,Pasadena, TX 77504,713-929-2764
-14,29.612151,-95.44550679999999,CenterWell Hiram Clarke,4435 West Fuqua Street ,Houston, TX 77045,713-804-2562
-15,29.9430579,-93.9914086,CenterWell Port Arthur,8555 Memorial Boulevard, Suite 100,Port Arthur,
-16,32.825416,-97.22672,CenterWell North Richland Hills,7245 Blvd 26 ,Richland Hills, TX 76180,682-334-8669
-17,32.709082,-97.014837,CenterWell Grand Prairie,725 W. Pioneer Parkway ,Grand Prairie, TX 75051,945-215-5463
-18,32.708122,-97.14965219999999,CenterWell Arlington,2562 W. Pioneer Pkwy ,Pantego, TX 76013,682-310-5752
-19,29.8489147,-95.2650463,CenterWell Tidwell,9417 Mesa Drive, #A ,Houston,
-20,29.7964516,-94.98280779999999,CenterWell Baytown,6515 Garth Road, Suite 150,Baytown,
-21,32.684949,-97.322102,CenterWell Seminary,4200 South Fwy, Suite 1990,Fort Worth,
-22,30.27848729999999,-95.4661905,CenterWell Conroe,381 S Loop 336 W, Suite 900,Conroe,
-23,29.6517014,-95.3549895,CenterWell Sunnyside,9609 Cullen Boulevard ,Houston, TX 77051,713-597-3870
-24,30.128009,-94.1552554,CenterWell Beaumont,4886 Dowlen Road ,Beaumont, TX 77708,409-245-5872
-25,32.9325921,-96.7024125,CenterWell Richardson,1332 S. Plano Rd., Suite 550,Richardson,
-26,32.861132,-96.8572112,CenterWell NW Dallas,3701 W. Northwest Hwy., Suite 191,Dallas,
-27,29.7344964,-95.36475949999999,CenterWell Emancipation,3131 Emancipation Avenue, Suite 103,Houston,
-28,32.7251038,-97.4767827,CenterWell Camp Bowie West,9108 Camp Bowie West ,Fort Worth, TX 76116,682-615-6580
-29,32.8062269,-96.6808159,CenterWell North Buckner,3312 N Buckner Blvd, Suite 213,Dallas,
-30,28.5539802,-81.4879445,CenterWell West Orange,7649 West Colonial Drive, Suite 115,Orlando,
-31,28.9495554,-81.9556303,CenterWell The Villages,1400 US Highway-441 N, Suite 930,The Villages,
-32,28.5340286,-81.3100719,CenterWell Engelwood Park,737 South Semoran Boulevard ,Orlando, FL 32807,407-543-1016
-33,28.3065565,-81.4353874,CenterWell West Vine,3185 West Vine Street ,Kissimmee, FL 34741,407-410-4376
-34,28.145974,-81.445425,CenterWell Poinciana,1050 Cypress Parkway ,Kissimmee, FL 34759,407-606-8502
-35,28.3191257,-81.33899819999999,CenterWell BVL,2577 Simpson Road ,Kissimmee, FL 34744,407-250-1292
-36,28.82342319999999,-81.8887135,CenterWell Leesburg,941 N 14th St. ,Leesburg, FL 34748,407-584-1269
-37,28.539958,-81.227493,CenterWell Lake Underhill,10829 Dylan Loren Circle ,Orlando, FL 32825,407-410-4396
-38,28.610474,-81.453215,CenterWell Rosemont,5554 Clarcona Ocoee Road ,Orlando, FL 32810,407-707-6112
-39,28.6655542,-81.2239616,CenterWell Oviedo,1000 Executive Drive, Suite 7,Oviedo,
-40,28.6499016,-81.32330929999999,CenterWell Casselberry,946 State Road 436 ,Casselberry, FL 32707,407-329-9624
-41,28.54561,-81.724416,CenterWell Clermont,1735 East Highway-50, Suite B,Clermont,
-42,28.666902,-81.390847,CenterWell Altamonte Springs,360 Douglas Avenue ,Altamonte Springs, FL 32714,407-759-5937
-43,28.480199,-81.318192,CenterWell Hoffner,5200 Hoffner Avenue ,Orlando, FL 32812,407-553-5499
-44,28.598627,-81.328338,CenterWell Winter Park,255 North Lakemont Avenue, Suite 101,Winter Park,
-45,28.3625419,-81.42038649999999,CenterWell Hunters Creek,14075 South Town Loop Boulevard ,Orlando, FL 32837,407-863-3415
-46,28.692674,-81.345467,CenterWell Longwood,485 S. Ronald Reagan Blvd. ,Longwood, FL 32750,407-632-4827
-47,28.6856935,-81.5309405,CenterWell Apopka,1049 West Orange Blossom Trail ,Apopka, FL 32712,407-630-8226
-48,28.5539802,-81.4879445,CenterWell West Orange,7649 West Colonial Drive, Suite 115,Orlando,
-49,28.9495554,-81.9556303,CenterWell The Villages,1400 US Highway-441 N, Suite 930,The Villages,
-50,28.5340286,-81.3100719,CenterWell Engelwood Park,737 South Semoran Boulevard ,Orlando, FL 32807,407-543-1016
-51,28.3065565,-81.4353874,CenterWell West Vine,3185 West Vine Street ,Kissimmee, FL 34741,407-410-4376
-52,28.145974,-81.445425,CenterWell Poinciana,1050 Cypress Parkway ,Kissimmee, FL 34759,407-606-8502
-53,28.3191257,-81.33899819999999,CenterWell BVL,2577 Simpson Road ,Kissimmee, FL 34744,407-250-1292
-54,28.82342319999999,-81.8887135,CenterWell Leesburg,941 N 14th St. ,Leesburg, FL 34748,407-584-1269
-55,28.539958,-81.227493,CenterWell Lake Underhill,10829 Dylan Loren Circle ,Orlando, FL 32825,407-410-4396
-56,28.610474,-81.453215,CenterWell Rosemont,5554 Clarcona Ocoee Road ,Orlando, FL 32810,407-707-6112
-57,28.6655542,-81.2239616,CenterWell Oviedo,1000 Executive Drive, Suite 7,Oviedo,
-58,28.6499016,-81.32330929999999,CenterWell Casselberry,946 State Road 436 ,Casselberry, FL 32707,407-329-9624
-59,28.54561,-81.724416,CenterWell Clermont,1735 East Highway-50, Suite B,Clermont,
-60,28.666902,-81.390847,CenterWell Altamonte Springs,360 Douglas Avenue ,Altamonte Springs, FL 32714,407-759-5937
-61,28.480199,-81.318192,CenterWell Hoffner,5200 Hoffner Avenue ,Orlando, FL 32812,407-553-5499
-62,28.598627,-81.328338,CenterWell Winter Park,255 North Lakemont Avenue, Suite 101,Winter Park,
-63,28.3625419,-81.42038649999999,CenterWell Hunters Creek,14075 South Town Loop Boulevard ,Orlando, FL 32837,407-863-3415
-64,28.692674,-81.345467,CenterWell Longwood,485 S. Ronald Reagan Blvd. ,Longwood, FL 32750,407-632-4827
-65,28.6856935,-81.5309405,CenterWell Apopka,1049 West Orange Blossom Trail ,Apopka, FL 32712,407-630-8226
-66,36.098777,-115.104722,CenterWell E. Tropicana,3265 East Tropicana Ave ,Las Vegas, NV 89121,702-508-7164
-67,36.0852713,-115.0342268,CenterWell Boulder HWY,6360 Boulder Highway ,Las Vegas, NV 89122,702-710-8326
-68,36.1376404,-115.0670411,CenterWell South Nellis,2875 South Nellis Boulevard, Suite 3,Las Vegas,
-69,36.239929,-115.164037,CenterWell West Craig Road,1650 W Craig Rd ,North Las Vegas, NV 89032,702-905-1508
-70,36.1948244,-115.1171631,CenterWell North Las Vegas,2335 E Lake Mead Blvd ,North Las Vegas, NV 89030,702-996-3467
-71,36.1585677,-115.2006628,CenterWell W. Charleston,4469 West Charleston Blvd ,Las Vegas, NV 89102,702-829-5388
-72,36.1988187,-115.1903286,CenterWell Rancho,3860 W Lake Mead Blvd, Suite 100,North Las Vegas,
-73,36.1013349,-115.1193868,CenterWell South Eastern,4813 South Eastern Avenue ,Las Vegas, NV 89119,702-620-5487
-74,36.0386608,-114.9963657,CenterWell Henderson,390 West Lake Mead Parkway, Suite 120,Henderson,
-75,36.04051,-115.1195258,CenterWell Green Valley,2381 E. Windmill Lane, Suite 14,Las Vegas,
-76,36.207674,-115.251054,CenterWell Tenaya,2601 N Tenaya Way ,Las Vegas, NV 89128,702-602-8265
-77,36.0003893,-115.1009482,CenterWell Anthem,2629 W Horizon Ridge Parkway, Suite 140,Henderson,
-78,36.1587661,-115.1259468,CenterWell Fremont Street,1766 East Charleston Boulevard ,Las Vegas, NV 89104,702-703-3212
-79,36.1739119,-115.1612636,CenterWell South MLK,80 South Martin Luther King Boulevard, Suite 100,Las Vegas,
-80,36.1177731,-115.2097298,CenterWell Spring Valley,4001 South Decatur Boulevard, Suite 25,Las Vegas,
-81,36.1009756,-115.3147335,CenterWell South Summerlin,10180 W. Tropicana Ave., Suite 136,Las Vegas,
-82,36.1611117,-115.245649,CenterWell South Rainbow,915 South Rainbow Boulevard ,Las Vegas, NV 89145,702-744-9060
-83,36.2377191,-115.2099828,CenterWell West Craig,4919 West Craig Road ,Las Vegas, NV 89130,702-620-5483
-84,36.0348319,-115.2016616,CenterWell Blue Diamond,4517 Blue Diamond Rd. ,Las Vegas, NV 89139,725-217-4334
-85,36.2167604,-115.2426603,CenterWell North Rainbow,3129 North Rainbow Boulevard ,Las Vegas, NV 89108,702-744-9230
-86,28.5539802,-81.4879445,CenterWell West Orange,7649 West Colonial Drive, Suite 115,Orlando,
-87,33.590143,-84.47035389999999,CenterWell Old National,6085 Old National Highway, Suite G,South Fulton,
-88,33.6180011,-112.2900109,CenterWell Sun City,14813 N Del Webb Blvd ,Sun City, AZ 85351,602-975-3310
-89,33.5967271,-112.1666585,CenterWell Glendale,5016 W. Cactus Road ,Glendale, AZ 85304,602-962-2439
-90,36.215619,-86.598721,CenterWell Hermitage,4442B Lebanon Pike ,Hermitage, TN 37076,615-379-3039
-91,35.141249,-80.733834,CenterWell Matthews - Coming Soon!,1916 Sardis Rd. N. ,Charlotte, NC 28270,704-755-5619
-92,35.5761997,-82.5195588,CenterWell River Hills - Coming Soon!,105 River Hills Rd., Suite A,Ashville,
-93,33.5925848,-79.0045944,CenterWell Garden City,2520 S. Highway 17, Suite 10,Murrells Inlet,
-94,33.9709221,-81.0797128,CenterWell Cayce,1612 Airport Blvd. ,West Columbia, SC 29169,803-962-7624
-95,34.474673,-82.652395,CenterWell Homeland Park,108 Highway 28 Bypass ,Anderson, SC 29624,864-523-8733
-96,28.9495554,-81.9556303,CenterWell The Villages,1400 US Highway-441 N, Suite 930,The Villages,
-97,36.098777,-115.104722,CenterWell E. Tropicana,3265 East Tropicana Ave ,Las Vegas, NV 89121,702-508-7164
-98,36.0852713,-115.0342268,CenterWell Boulder HWY,6360 Boulder Highway ,Las Vegas, NV 89122,702-710-4001
-99,39.0629143,-94.5815678,CenterWell Midtown,301 East Armour Boulevard, Suite 2E,Kansas City,
-100,26.1668629,-97.6785117,CenterWell Harlingen,801 N Ed Carey Drive ,Harlingen, TX 78550,956-707-1513
-101,35.191162,-80.797262,CenterWell Wendover,901 North Wendover Rd ,Charlotte, NC 28211,980-409-2213
-102,35.312101,-80.755159,CenterWell University City,8727 JW Clay Blvd ,Charlotte, NC 28262,980-449-2457
-103,28.5340286,-81.3100719,CenterWell Engelwood Park,737 South Semoran Boulevard ,Orlando, FL 32807,407-543-1016
-104,34.9442995,-82.2467372,CenterWell Greer,805 West Wade Hampton Boulevard, Suite C,Greer,
-105,36.1376404,-115.0670411,CenterWell South Nellis,2875 South Nellis Boulevard, Suite 3,Las Vegas,
-106,33.4173401,-111.7357873,CenterWell Groves,63 N Greenfield Rd, Suite 108,Mesa,
-107,35.161127,-80.875643,CenterWell Montclaire - Coming Soon!,5415 South Blvd. ,Charlotte, NC 28217,704-480-3560
-108,36.03739729999999,-78.8927787,CenterWell Roxboro - Coming Soon!,3500 N. Roxboro St., Suite 1-B,Durham,
-109,34.8548671,-82.3286762,CenterWell Orchard Park,101 Orchard Park Drive ,Greenville, SC 29615,864-660-7341
-110,34.544408,-82.6320954,CenterWell Anderson,2001 East Greenville Street ,Anderson, SC 29621,864-523-8793
-111,30.45967199999999,-90.9549905,CenterWell Denham Springs,2314 South Range Avenue ,Denham Springs, LA 70726,337-473-2608
-112,30.5024734,-90.4852804,CenterWell Hammond,2240 West Thomas Street ,Hammond, LA 70401,337-509-1912
-113,36.239929,-115.164037,CenterWell West Craig Road,1650 W Craig Rd ,North Las Vegas, NV 89032,702-905-1508
-114,36.1948244,-115.1171631,CenterWell North Las Vegas,2335 E Lake Mead Blvd ,North Las Vegas, NV 89030,702-996-3467
-115,32.6629624,-96.87305699999999,CenterWell Redbird,3209 W Camp Wisdom Road ,Dallas, TX 75237,469-595-0297
-116,37.634777,-77.458384,CenterWell Brook Road - Coming Soon!,8191 Brook Rd., Suite M/N,Richmond,
-117,35.965,-78.9575,CenterWell Parkway Plaza - Coming Soon!,4201 University Dr., Suite 101,Durham,
-118,35.8340447,-78.5843112,CenterWell Capital,3901 Capital Blvd., Suite 113,Raleigh,
-119,34.062541,-80.95254,CenterWell Decker Blvd,2738 Decker Blvd, Suite A,Columbia,
-120,34.6889529,-82.9930888,CenterWell Seneca,366 Market Street ,Seneca, SC 29678,864-660-7369
-121,28.3065565,-81.4353874,CenterWell West Vine,3185 West Vine Street ,Kissimmee, FL 34741,407-410-4376
-122,28.145974,-81.445425,CenterWell Poinciana,1050 Cypress Parkway ,Kissimmee, FL 34759,407-606-8502
-123,36.1585677,-115.2006628,CenterWell W. Charleston,4469 West Charleston Blvd ,Las Vegas, NV 89102,702-829-5388
-124,36.1988187,-115.1903286,CenterWell Rancho,3860 W Lake Mead Blvd, Suite 100,North Las Vegas,
-125,38.32420949999999,-85.7667046,CenterWell Veterans,1020 Veterans Pkwy., Suite 700,Clarksville,
-126,38.2600642,-85.8002984,CenterWell West Louisville,2950 W. Market St. ,Louisville, KY 40212,502-383-0219
-127,33.760862,-78.9670481,CenterWell Carolina Forest,3725 Renee Drive ,Myrtle Beach, SC 29579,843-376-6389
-128,35.260524,-81.126611,CenterWell Gastonia,2910 East Franklin Boulevard, Suite 1,Gastonia,
-129,32.9014443,-79.9866693,CenterWell North Charleston,1213 Remount Road, Suite E,North Charleston,
-130,34.7908034,-82.48335569999999,CenterWell Powdersville,3516 SC Highway 153 ,Greenville, SC 29611,864-571-9193
-131,30.2133344,-92.04638829999999,CenterWell Lafayette,539 Bertrand Drive ,Lafayette, LA 70506,337-345-6326
-132,32.4361778,-93.71233559999999,CenterWell Shreveport,7551 Youree Drive, Suite 11,Shreveport,
-133,36.1013349,-115.1193868,CenterWell South Eastern,4813 South Eastern Avenue ,Las Vegas, NV 89119,702-479-5240
-134,33.481348,-112.2004436,CenterWell Maryvale,6544 W Thomas Road, Suite 11,Phoenix,
-135,35.8129483,-86.3692123,CenterWell Murfreesboro,1715 S. Rutherford Blvd., Suite A,Murfreesboro,
-136,29.87119899999999,-95.4040177,CenterWell Little York,388 West Little York Road ,Houston, TX 77076,346-708-6254
-137,35.725376,-78.651698,CenterWell Garner Station,1408 Garner Station Blvd. ,Raleigh, NC 27603,984-983-6694
-138,35.2256394,-80.8991685,CenterWell Wilkinson,3512 Wilkinson Blvd, Suite 130,Charlotte,
-139,34.9685648,-81.8905691,CenterWell Spartanburg,1855 East Main Street, Suite 21A,Spartanburg,
-140,32.8135373,-79.9969435,CenterWell West Ashley,1401 Sam Rittenberg Boulevard, Suite 6,Charleston,
-141,33.5693254,-84.3319161,CenterWell Morrow,1821 Mount Zion Rd ,Morrow, GA 30260,770-746-9366
-142,29.73777939999999,-95.5909202,CenterWell Westside,11978 Westheimer Road, Suite B,Houston,
-143,29.696793,-95.297155,CenterWell Gulfgate,545 Gulfgate Center Mall ,Houston, TX 77087,832-536-9678
-144,36.0386608,-114.9963657,CenterWell Henderson,390 West Lake Mead Parkway, Suite 120,Henderson,
-145,33.378331,-112.036992,CenterWell South Mountain,2070 E Baseline Rd ,Phoenix, AZ 85042,602-962-3108
-146,28.5539802,-81.4879445,CenterWell West Orange,7649 West Colonial Drive, Suite 115,Orlando,
-147,33.590143,-84.47035389999999,CenterWell Old National,6085 Old National Highway, Suite G,South Fulton,
-148,33.6180011,-112.2900109,CenterWell Sun City,14813 N Del Webb Blvd ,Sun City, AZ 85351,602-975-3310
-149,33.5967271,-112.1666585,CenterWell Glendale,5016 W. Cactus Road ,Glendale, AZ 85304,602-962-2439
-150,36.215619,-86.598721,CenterWell Hermitage,4442B Lebanon Pike ,Hermitage, TN 37076,615-379-3039
-151,35.141249,-80.733834,CenterWell Matthews - Coming Soon!,1916 Sardis Rd. N. ,Charlotte, NC 28270,704-755-5619
-152,35.5761997,-82.5195588,CenterWell River Hills - Coming Soon!,105 River Hills Rd., Suite A,Ashville,
-153,33.5925848,-79.0045944,CenterWell Garden City,2520 S. Highway 17, Suite 10,Murrells Inlet,
-154,33.9709221,-81.0797128,CenterWell Cayce,1612 Airport Blvd. ,West Columbia, SC 29169,803-962-7624
-155,34.474673,-82.652395,CenterWell Homeland Park,108 Highway 28 Bypass ,Anderson, SC 29624,864-523-8733
-156,28.9495554,-81.9556303,CenterWell The Villages,1400 US Highway-441 N, Suite 930,The Villages,
-157,36.098777,-115.104722,CenterWell E. Tropicana,3265 East Tropicana Ave ,Las Vegas, NV 89121,702-508-7164
-158,36.0852713,-115.0342268,CenterWell Boulder HWY,6360 Boulder Highway ,Las Vegas, NV 89122,702-710-4001
-159,39.0629143,-94.5815678,CenterWell Midtown,301 East Armour Boulevard, Suite 2E,Kansas City,
-160,26.1668629,-97.6785117,CenterWell Harlingen,801 N Ed Carey Drive ,Harlingen, TX 78550,956-707-1513
-161,35.191162,-80.797262,CenterWell Wendover,901 North Wendover Rd ,Charlotte, NC 28211,980-409-2213
-162,35.312101,-80.755159,CenterWell University City,8727 JW Clay Blvd ,Charlotte, NC 28262,980-449-2457
-163,28.5340286,-81.3100719,CenterWell Engelwood Park,737 South Semoran Boulevard ,Orlando, FL 32807,407-543-1016
-164,34.9442995,-82.2467372,CenterWell Greer,805 West Wade Hampton Boulevard, Suite C,Greer,
-165,36.1376404,-115.0670411,CenterWell South Nellis,2875 South Nellis Boulevard, Suite 3,Las Vegas,
-166,33.4173401,-111.7357873,CenterWell Groves,63 N Greenfield Rd, Suite 108,Mesa,
-167,35.161127,-80.875643,CenterWell Montclaire - Coming Soon!,5415 South Blvd. ,Charlotte, NC 28217,704-480-3560
-168,36.03739729999999,-78.8927787,CenterWell Roxboro - Coming Soon!,3500 N. Roxboro St., Suite 1-B,Durham,
-169,34.8548671,-82.3286762,CenterWell Orchard Park,101 Orchard Park Drive ,Greenville, SC 29615,864-660-7341
-170,34.544408,-82.6320954,CenterWell Anderson,2001 East Greenville Street ,Anderson, SC 29621,864-523-8793
-171,30.45967199999999,-90.9549905,CenterWell Denham Springs,2314 South Range Avenue ,Denham Springs, LA 70726,337-473-2608
-172,30.5024734,-90.4852804,CenterWell Hammond,2240 West Thomas Street ,Hammond, LA 70401,337-509-1912
-173,36.239929,-115.164037,CenterWell West Craig Road,1650 W Craig Rd ,North Las Vegas, NV 89032,702-905-1508
-174,36.1948244,-115.1171631,CenterWell North Las Vegas,2335 E Lake Mead Blvd ,North Las Vegas, NV 89030,702-996-3467
-175,32.6629624,-96.87305699999999,CenterWell Redbird,3209 W Camp Wisdom Road ,Dallas, TX 75237,469-595-0297
-176,37.634777,-77.458384,CenterWell Brook Road - Coming Soon!,8191 Brook Rd., Suite M/N,Richmond,
-177,35.965,-78.9575,CenterWell Parkway Plaza - Coming Soon!,4201 University Dr., Suite 101,Durham,
-178,35.8340447,-78.5843112,CenterWell Capital,3901 Capital Blvd., Suite 113,Raleigh,
-179,34.062541,-80.95254,CenterWell Decker Blvd,2738 Decker Blvd, Suite A,Columbia,
-180,34.6889529,-82.9930888,CenterWell Seneca,366 Market Street ,Seneca, SC 29678,864-660-7369
-181,28.3065565,-81.4353874,CenterWell West Vine,3185 West Vine Street ,Kissimmee, FL 34741,407-410-4376
-182,28.145974,-81.445425,CenterWell Poinciana,1050 Cypress Parkway ,Kissimmee, FL 34759,407-606-8502
-183,36.1585677,-115.2006628,CenterWell W. Charleston,4469 West Charleston Blvd ,Las Vegas, NV 89102,702-829-5388
-184,36.1988187,-115.1903286,CenterWell Rancho,3860 W Lake Mead Blvd, Suite 100,North Las Vegas,
-185,38.32420949999999,-85.7667046,CenterWell Veterans,1020 Veterans Pkwy., Suite 700,Clarksville,
-186,38.2600642,-85.8002984,CenterWell West Louisville,2950 W. Market St. ,Louisville, KY 40212,502-383-0219
-187,33.760862,-78.9670481,CenterWell Carolina Forest,3725 Renee Drive ,Myrtle Beach, SC 29579,843-376-6389
-188,35.260524,-81.126611,CenterWell Gastonia,2910 East Franklin Boulevard, Suite 1,Gastonia,
-189,32.9014443,-79.9866693,CenterWell North Charleston,1213 Remount Road, Suite E,North Charleston,
-190,34.7908034,-82.48335569999999,CenterWell Powdersville,3516 SC Highway 153 ,Greenville, SC 29611,864-571-9193
-191,30.2133344,-92.04638829999999,CenterWell Lafayette,539 Bertrand Drive ,Lafayette, LA 70506,337-345-6326
-192,32.4361778,-93.71233559999999,CenterWell Shreveport,7551 Youree Drive, Suite 11,Shreveport,
-193,36.1013349,-115.1193868,CenterWell South Eastern,4813 South Eastern Avenue ,Las Vegas, NV 89119,702-479-5240
-194,33.481348,-112.2004436,CenterWell Maryvale,6544 W Thomas Road, Suite 11,Phoenix,
-195,35.8129483,-86.3692123,CenterWell Murfreesboro,1715 S. Rutherford Blvd., Suite A,Murfreesboro,
-196,29.87119899999999,-95.4040177,CenterWell Little York,388 West Little York Road ,Houston, TX 77076,346-708-6254
-197,35.725376,-78.651698,CenterWell Garner Station,1408 Garner Station Blvd. ,Raleigh, NC 27603,984-983-6694
-198,35.2256394,-80.8991685,CenterWell Wilkinson,3512 Wilkinson Blvd, Suite 130,Charlotte,
-199,34.9685648,-81.8905691,CenterWell Spartanburg,1855 East Main Street, Suite 21A,Spartanburg,
-200,32.8135373,-79.9969435,CenterWell West Ashley,1401 Sam Rittenberg Boulevard, Suite 6,Charleston,
-201,33.5693254,-84.3319161,CenterWell Morrow,1821 Mount Zion Rd ,Morrow, GA 30260,770-746-9366
-202,29.73777939999999,-95.5909202,CenterWell Westside,11978 Westheimer Road, Suite B,Houston,
-203,29.696793,-95.297155,CenterWell Gulfgate,545 Gulfgate Center Mall ,Houston, TX 77087,832-536-9678
-204,36.0386608,-114.9963657,CenterWell Henderson,390 West Lake Mead Parkway, Suite 120,Henderson,
-205,33.378331,-112.036992,CenterWell South Mountain,2070 E Baseline Rd ,Phoenix, AZ 85042,602-962-3108
-206,38.2600642,-85.8002984,CenterWell West Louisville,2950 W. Market St. ,Louisville, KY 40212,502-257-7005
-207,38.1397745,-85.6781195,CenterWell Outer Loop,4521 Outer Loop ,Louisville, KY 40219,502-325-3349
-208,38.20345,-85.76121,CenterWell South 2nd,3151 S 2nd Street ,Louisville, KY 40208,502-325-3281
-209,38.006707,-84.5201479,CenterWell Regency Centre,171 W. Lowry Ln., Suite 180,Lexington,
-210,38.0024483,-84.4443836,CenterWell Richmond Road,3101 Richmond Rd., Suite 190,Lexington,
-211,38.32420949999999,-85.7667046,CenterWell Veterans,1020 Veterans Pkwy., Suite 700,Clarksville,
-212,39.75274,-86.2462147,CenterWell Indy West,5115 W Washington Street ,Indianapolis, IN 46241,317-204-2034
-213,39.771106,-86.074544,CenterWell Irvington,5430 E. Washington St. ,Indianapolis, IN 46219,317-451-4439
-214,38.3062418,-85.83721829999999,CenterWell New Albany,305 New Albany Plaza ,New Albany, IN 47150,812-203-8491
-215,39.8367175,-86.02318869999999,CenterWell Pendleton Pike,8101 Pendleton Pike, Suite E,Indianapolis,
-216,39.8379847,-86.24752409999999,CenterWell Eagledale,4525 Lafayette Road, Suite A,Indianapolis,
-217,39.1149366,-94.7546792,CenterWell State Ave,7527 State Avenue ,Kansas City, KS 66112,913-354-7885
-218,38.9115411,-94.77809889999999,CenterWell Olathe,16575 West 119th Street ,Olathe, KS 66061,913-379-4649
-219,39.0629143,-94.5815678,CenterWell Midtown,301 East Armour Boulevard, Suite 2E,Kansas City,
-220,38.888439,-94.52641179999999,CenterWell Grandview,1513 Main Street ,Grandview, MO 64030,816-608-8284
-221,39.047122,-94.351727,CenterWell Independence,19401 East 39th Street South ,Independence, MO 64057,816-439-8118
-222,39.09418549999999,-94.41881389999999,CenterWell Truman,300  N. Osage Street, Suite 200,Independence,
-223,38.9952919,-94.47343160000001,CenterWell Raytown,9300 East Gregory Boulevard, Suite A,Raytown,
-224,33.590143,-84.47035389999999,CenterWell Old National,6085 Old National Highway, Suite G,South Fulton,
-225,33.5693254,-84.3319161,CenterWell Morrow,1821 Mount Zion Rd ,Morrow, GA 30260,770-746-9366
-226,33.7762673,-84.4530443,CenterWell Grove Park,2056 Donald Lee Hollowell Pkwy NW, Suite 1,Atlanta,
-227,33.7599802,-84.5039022,CenterWell Adamsville,3571 Martin Luther King Jr Dr SW ,Atlanta, GA 30331,770-872-6946
-228,33.7991943,-84.22289839999999,CenterWell Stone Mountain,5244 Memorial Drive, Suite 1101,Stone Mountain,
-229,33.7190023,-84.21631169999999,CenterWell Wesley Chapel,2389 Wesley Chapel RD, Suite 102,Decatur,
-230,33.6883924,-84.4873695,CenterWell Greenbriar,3030 Headland Dr. SW, Suite 600,Atlanta,
-231,30.45967199999999,-90.9549905,CenterWell Denham Springs,2314 South Range Avenue ,Denham Springs, LA 70726,337-473-2608
-232,30.5024734,-90.4852804,CenterWell Hammond,2240 West Thomas Street ,Hammond, LA 70401,337-509-1912
-233,30.2133344,-92.04638829999999,CenterWell Lafayette,539 Bertrand Drive ,Lafayette, LA 70506,337-345-6326
-234,32.4361778,-93.71233559999999,CenterWell Shreveport,7551 Youree Drive, Suite 11,Shreveport,
-235,30.2851945,-89.766737,CenterWell Slidell,1300 Gause Boulevard, Suite C4,Slidell,
-236,30.5229754,-92.0668463,CenterWell Opelousas,1511 Commerce Blvd., Suite 6,Opelousas,
-237,32.5279699,-93.70912299999999,CenterWell Bossier City,2900 East Texas Street, Suite 100,Bossier City,
-238,30.1851022,-93.2195217,CenterWell Lake Charles,4050 Ryan Street ,Lake Charles, LA 70605,337-222-3428
-239,30.4410937,-90.08157560000001,CenterWell Covington,66 Park Place Drive ,Covington, LA 70433,985-333-7793
-240,30.581524,-91.130863,CenterWell Baker - Coming Soon!,6404 Groom Road ,Baker, LA 70714,828-761-6715
-241,38.2600642,-85.8002984,CenterWell West Louisville,2950 W. Market St. ,Louisville, KY 40212,502-383-0219
-242,38.1397745,-85.6781195,CenterWell Outer Loop,4521 Outer Loop ,Louisville, KY 40219,502-325-3238
-243,38.20345,-85.76121,CenterWell South 2nd,3151 S 2nd Street ,Louisville, KY 40208,502-325-3281
-244,38.006707,-84.5201479,CenterWell Regency Centre,171 W. Lowry Ln., Suite 180,Lexington,
-245,38.0024483,-84.4443836,CenterWell Richmond Road,3101 Richmond Rd., Suite 190,Lexington,
+,City,State,Zip,Phone,latitude,longitude,Center_Name,Street_address
+0,Harlingen,TX,78550,956-707-1513,26.1668629,-97.6785117,CenterWell Harlingen,801 N Ed Carey Drive 
+1,Dallas,TX,75237,469-595-0297,32.6629624,-96.87305699999999,CenterWell Redbird,3209 W Camp Wisdom Road 
+2,Houston,TX,77076,346-708-6254,29.87119899999999,-95.4040177,CenterWell Little York,388 West Little York Road 
+3,Houston,TX,77077,346-570-1579,29.73777939999999,-95.5909202,CenterWell Westside,11978 Westheimer Road
+4,Houston,TX,77087,832-536-9678,29.696793,-95.297155,CenterWell Gulfgate,545 Gulfgate Center Mall 
+5,Brownsville,TX,78520,956-539-7318,25.9255135,-97.5110322,CenterWell Brownsville,1454 Central Blvd 
+6,Houston,TX,77074,713-766-5826,29.6855314,-95.5290961,CenterWell Sharpstown,8708 S Gessner Drive
+7,Houston,TX,77011,832-667-4150,29.7416961,-95.32422,CenterWell Downtown East,5104 Harrisburg Boulevard
+8,Humble,TX,77338,281-519-3316,30.0048498,-95.27696189999999,CenterWell Humble,9688 FM 1960 Bypass Road West 
+9,Houston,TX,77013,832-209-7556,29.774295,-95.232158,CenterWell Jacinto City,1910 John Ralston Road
+10,Garland,TX,75041,469-956-5978,32.8639427,-96.6440128,CenterWell South Garland,1205 Northwest Hwy. 
+11,Edinburg,TX,78539,956-300-2069,26.2678849,-98.17230359999999,CenterWell Edinburg,3601 S Business Hwy 281 
+12,McAllen,TX,78501,956-300-2824,26.1995503,-98.20636999999999,CenterWell McAllen,1201 E Business Hwy 83 
+13,Pasadena,TX,77504,713-929-2764,29.6659689,-95.1847066,CenterWell Pasadena,3915 Spencer Highway 
+14,Houston,TX,77045,713-804-2562,29.612151,-95.44550679999999,CenterWell Hiram Clarke,4435 West Fuqua Street 
+15,Arthur,TX,77640,409-407-4783,29.9430579,-93.9914086,CenterWell Port Arthur,8555 Memorial Boulevard
+16,Hills,TX,76180,682-334-8669,32.825416,-97.22672,CenterWell North Richland Hills,7245 Blvd 26 
+17,Prairie,TX,75051,945-215-5463,32.709082,-97.014837,CenterWell Grand Prairie,725 W. Pioneer Parkway 
+18,Pantego,TX,76013,682-310-5752,32.708122,-97.14965219999999,CenterWell Arlington,2562 W. Pioneer Pkwy 
+19,Houston,TX,77028,713-597-5882,29.8489147,-95.2650463,CenterWell Tidwell,9417 Mesa Drive
+20,Baytown,TX,77521,832-209-7772,29.7964516,-94.98280779999999,CenterWell Baytown,6515 Garth Road
+21,Worth,TX,76115,682-243-7339,32.684949,-97.322102,CenterWell Seminary,4200 South Fwy
+22,Conroe,TX,77304,936-209-7348,30.27848729999999,-95.4661905,CenterWell Conroe,381 S Loop 336 W
+23,Houston,TX,77051,713-597-3870,29.6517014,-95.3549895,CenterWell Sunnyside,9609 Cullen Boulevard 
+24,Beaumont,TX,77708,409-245-5872,30.128009,-94.1552554,CenterWell Beaumont,4886 Dowlen Road 
+25,Richardson,TX,75081,972-787-0977,32.9325921,-96.7024125,CenterWell Richardson,1332 S. Plano Rd.
+26,Dallas,TX,75220,469-652-8895,32.861132,-96.8572112,CenterWell NW Dallas,3701 W. Northwest Hwy.
+27,Houston,TX,77004,832-621-3760,29.7344964,-95.36475949999999,CenterWell Emancipation,3131 Emancipation Avenue
+28,Worth,TX,76116,682-615-6580,32.7251038,-97.4767827,CenterWell Camp Bowie West,9108 Camp Bowie West 
+29,Dallas,TX,75228,469-217-4390,32.8062269,-96.6808159,CenterWell North Buckner,3312 N Buckner Blvd
+30,Orlando,FL,32818,407-439-2917,28.5539802,-81.4879445,CenterWell West Orange,7649 West Colonial Drive
+31,Villages,FL,32159,407-807-6673,28.9495554,-81.9556303,CenterWell The Villages,1400 US Highway-441 N
+32,Orlando,FL,32807,407-543-1016,28.5340286,-81.3100719,CenterWell Engelwood Park,737 South Semoran Boulevard 
+33,Kissimmee,FL,34741,407-410-4376,28.3065565,-81.4353874,CenterWell West Vine,3185 West Vine Street 
+34,Kissimmee,FL,34759,407-606-8502,28.145974,-81.445425,CenterWell Poinciana,1050 Cypress Parkway 
+35,Kissimmee,FL,34744,407-250-1292,28.3191257,-81.33899819999999,CenterWell BVL,2577 Simpson Road 
+36,Leesburg,FL,34748,407-584-1269,28.82342319999999,-81.8887135,CenterWell Leesburg,941 N 14th St. 
+37,Orlando,FL,32825,407-410-4396,28.539958,-81.227493,CenterWell Lake Underhill,10829 Dylan Loren Circle 
+38,Orlando,FL,32810,407-707-6112,28.610474,-81.453215,CenterWell Rosemont,5554 Clarcona Ocoee Road 
+39,Oviedo,FL,32765,407-974-4410,28.6655542,-81.2239616,CenterWell Oviedo,1000 Executive Drive
+40,Casselberry,FL,32707,407-329-9624,28.6499016,-81.32330929999999,CenterWell Casselberry,946 State Road 436 
+41,Clermont,FL,34711,407-794-7635,28.54561,-81.724416,CenterWell Clermont,1735 East Highway-50
+42,Springs,FL,32714,407-759-5937,28.666902,-81.390847,CenterWell Altamonte Springs,360 Douglas Avenue 
+43,Orlando,FL,32812,407-553-5499,28.480199,-81.318192,CenterWell Hoffner,5200 Hoffner Avenue 
+44,Park,FL,32792,407-707-6091,28.598627,-81.328338,CenterWell Winter Park,255 North Lakemont Avenue
+45,Orlando,FL,32837,407-863-3415,28.3625419,-81.42038649999999,CenterWell Hunters Creek,14075 South Town Loop Boulevard 
+46,Longwood,FL,32750,407-632-4827,28.692674,-81.345467,CenterWell Longwood,485 S. Ronald Reagan Blvd. 
+47,Apopka,FL,32712,407-630-8226,28.6856935,-81.5309405,CenterWell Apopka,1049 West Orange Blossom Trail 
+48,Orlando,FL,32818,407-439-2917,28.5539802,-81.4879445,CenterWell West Orange,7649 West Colonial Drive
+49,Villages,FL,32159,407-807-6673,28.9495554,-81.9556303,CenterWell The Villages,1400 US Highway-441 N
+50,Orlando,FL,32807,407-543-1016,28.5340286,-81.3100719,CenterWell Engelwood Park,737 South Semoran Boulevard 
+51,Kissimmee,FL,34741,407-410-4376,28.3065565,-81.4353874,CenterWell West Vine,3185 West Vine Street 
+52,Kissimmee,FL,34759,407-606-8502,28.145974,-81.445425,CenterWell Poinciana,1050 Cypress Parkway 
+53,Kissimmee,FL,34744,407-250-1292,28.3191257,-81.33899819999999,CenterWell BVL,2577 Simpson Road 
+54,Leesburg,FL,34748,407-584-1269,28.82342319999999,-81.8887135,CenterWell Leesburg,941 N 14th St. 
+55,Orlando,FL,32825,407-410-4396,28.539958,-81.227493,CenterWell Lake Underhill,10829 Dylan Loren Circle 
+56,Orlando,FL,32810,407-707-6112,28.610474,-81.453215,CenterWell Rosemont,5554 Clarcona Ocoee Road 
+57,Oviedo,FL,32765,407-974-4410,28.6655542,-81.2239616,CenterWell Oviedo,1000 Executive Drive
+58,Casselberry,FL,32707,407-329-9624,28.6499016,-81.32330929999999,CenterWell Casselberry,946 State Road 436 
+59,Clermont,FL,34711,407-794-7635,28.54561,-81.724416,CenterWell Clermont,1735 East Highway-50
+60,Springs,FL,32714,407-759-5937,28.666902,-81.390847,CenterWell Altamonte Springs,360 Douglas Avenue 
+61,Orlando,FL,32812,407-553-5499,28.480199,-81.318192,CenterWell Hoffner,5200 Hoffner Avenue 
+62,Park,FL,32792,407-707-6091,28.598627,-81.328338,CenterWell Winter Park,255 North Lakemont Avenue
+63,Orlando,FL,32837,407-863-3415,28.3625419,-81.42038649999999,CenterWell Hunters Creek,14075 South Town Loop Boulevard 
+64,Longwood,FL,32750,407-632-4827,28.692674,-81.345467,CenterWell Longwood,485 S. Ronald Reagan Blvd. 
+65,Apopka,FL,32712,407-630-8226,28.6856935,-81.5309405,CenterWell Apopka,1049 West Orange Blossom Trail 
+66,Vegas,NV,89121,702-508-7164,36.098777,-115.104722,CenterWell E. Tropicana,3265 East Tropicana Ave 
+67,Vegas,NV,89122,702-710-8326,36.0852713,-115.0342268,CenterWell Boulder HWY,6360 Boulder Highway 
+68,Vegas,NV,89121,702-829-5237,36.1376404,-115.0670411,CenterWell South Nellis,2875 South Nellis Boulevard
+69,Vegas,NV,89032,702-905-1508,36.239929,-115.164037,CenterWell West Craig Road,1650 W Craig Rd 
+70,Vegas,NV,89030,702-996-3467,36.1948244,-115.1171631,CenterWell North Las Vegas,2335 E Lake Mead Blvd 
+71,Vegas,NV,89102,702-829-5388,36.1585677,-115.2006628,CenterWell W. Charleston,4469 West Charleston Blvd 
+72,Vegas,NV,89032,702-829-5046,36.1988187,-115.1903286,CenterWell Rancho,3860 W Lake Mead Blvd
+73,Vegas,NV,89119,702-620-5487,36.1013349,-115.1193868,CenterWell South Eastern,4813 South Eastern Avenue 
+74,Henderson,NV,89015,702-710-5312,36.0386608,-114.9963657,CenterWell Henderson,390 West Lake Mead Parkway
+75,Vegas,NV,89123,702-827-4491,36.04051,-115.1195258,CenterWell Green Valley,2381 E. Windmill Lane
+76,Vegas,NV,89128,702-602-8265,36.207674,-115.251054,CenterWell Tenaya,2601 N Tenaya Way 
+77,Henderson,NV,89052,702-819-0013,36.0003893,-115.1009482,CenterWell Anthem,2629 W Horizon Ridge Parkway
+78,Vegas,NV,89104,702-703-3212,36.1587661,-115.1259468,CenterWell Fremont Street,1766 East Charleston Boulevard 
+79,Vegas,NV,89106,702-620-5983,36.1739119,-115.1612636,CenterWell South MLK,80 South Martin Luther King Boulevard
+80,Vegas,NV,89103,702-744-9748,36.1177731,-115.2097298,CenterWell Spring Valley,4001 South Decatur Boulevard
+81,Vegas,NV,89147,702-745-5971,36.1009756,-115.3147335,CenterWell South Summerlin,10180 W. Tropicana Ave.
+82,Vegas,NV,89145,702-744-9060,36.1611117,-115.245649,CenterWell South Rainbow,915 South Rainbow Boulevard 
+83,Vegas,NV,89130,702-620-5483,36.2377191,-115.2099828,CenterWell West Craig,4919 West Craig Road 
+84,Vegas,NV,89139,725-217-4334,36.0348319,-115.2016616,CenterWell Blue Diamond,4517 Blue Diamond Rd. 
+85,Vegas,NV,89108,702-744-9230,36.2167604,-115.2426603,CenterWell North Rainbow,3129 North Rainbow Boulevard 
+86,Charlotte,NC,28270,704-755-5619,35.141249,-80.733834,CenterWell Matthews - Coming Soon!,1916 Sardis Rd. N. 
+87,Ashville,NC,28805,828-248-0622,35.5761997,-82.5195588,CenterWell River Hills - Coming Soon!,105 River Hills Rd.
+88,Charlotte,NC,28217,704-946-8725,35.161127,-80.875643,CenterWell Montclaire - Coming Soon!,5415 South Blvd. 
+89,Charlotte,NC,28211,980-393-6716,35.191162,-80.797262,CenterWell Wendover,901 North Wendover Rd 
+90,Charlotte,NC,28262,980-449-2457,35.312101,-80.755159,CenterWell University City,8727 JW Clay Blvd 
+91,Durham,NC,27704,336-390-4771,36.03739729999999,-78.8927787,CenterWell Roxboro - Coming Soon!,3500 N. Roxboro St.
+92,Durham,NC,27707,984-217-5544,35.965,-78.9575,CenterWell Parkway Plaza - Coming Soon!,4201 University Dr.
+93,Raleigh,NC,27604,984-203-7860,35.8340447,-78.5843112,CenterWell Capital,3901 Capital Blvd.
+94,Gastonia,NC,28056,704-741-0264,35.260524,-81.126611,CenterWell Gastonia,2910 East Franklin Boulevard
+95,Raleigh,NC,27603,984-203-7849,35.725376,-78.651698,CenterWell Garner Station,1408 Garner Station Blvd. 
+96,Charlotte,NC,28208,980-291-6610,35.2256394,-80.8991685,CenterWell Wilkinson,3512 Wilkinson Blvd
+97,Orlando,FL,32818,407-439-2917,28.5539802,-81.4879445,CenterWell West Orange,7649 West Colonial Drive
+98,Fulton,GA,30349,770-230-5278,33.590143,-84.47035389999999,CenterWell Old National,6085 Old National Highway
+99,City,AZ,85351,602-975-3310,33.6180011,-112.2900109,CenterWell Sun City,14813 N Del Webb Blvd 
+100,Glendale,AZ,85304,602-962-2439,33.5967271,-112.1666585,CenterWell Glendale,5016 W. Cactus Road 
+101,Hermitage,TN,37076,615-379-3039,36.215619,-86.598721,CenterWell Hermitage,4442B Lebanon Pike 
+102,Charlotte,NC,28270,704-755-5619,35.141249,-80.733834,CenterWell Matthews - Coming Soon!,1916 Sardis Rd. N. 
+103,Ashville,NC,28805,828-761-6715,35.5761997,-82.5195588,CenterWell River Hills - Coming Soon!,105 River Hills Rd.
+104,Inlet,SC,29576,843-594-0580,33.5925848,-79.0045944,CenterWell Garden City,2520 S. Highway 17
+105,Columbia,SC,29169,803-962-7624,33.9709221,-81.0797128,CenterWell Cayce,1612 Airport Blvd. 
+106,Anderson,SC,29624,864-523-8733,34.474673,-82.652395,CenterWell Homeland Park,108 Highway 28 Bypass 
+107,Villages,FL,32159,407-807-6673,28.9495554,-81.9556303,CenterWell The Villages,1400 US Highway-441 N
+108,Vegas,NV,89121,702-508-7164,36.098777,-115.104722,CenterWell E. Tropicana,3265 East Tropicana Ave 
+109,Vegas,NV,89122,702-710-4001,36.0852713,-115.0342268,CenterWell Boulder HWY,6360 Boulder Highway 
+110,City,MO,64111,816-608-8269,39.0629143,-94.5815678,CenterWell Midtown,301 East Armour Boulevard
+111,Harlingen,TX,78550,956-707-1513,26.1668629,-97.6785117,CenterWell Harlingen,801 N Ed Carey Drive 
+112,Charlotte,NC,28211,980-409-2213,35.191162,-80.797262,CenterWell Wendover,901 North Wendover Rd 
+113,Charlotte,NC,28262,980-449-2457,35.312101,-80.755159,CenterWell University City,8727 JW Clay Blvd 
+114,Orlando,FL,32807,407-543-1016,28.5340286,-81.3100719,CenterWell Engelwood Park,737 South Semoran Boulevard 
+115,Greer,SC,29650,864-660-7418,34.9442995,-82.2467372,CenterWell Greer,805 West Wade Hampton Boulevard
+116,Vegas,NV,89121,702-291-9512,36.1376404,-115.0670411,CenterWell South Nellis,2875 South Nellis Boulevard
+117,Mesa,AZ,85205,602-755-6367,33.4173401,-111.7357873,CenterWell Groves,63 N Greenfield Rd
+118,Charlotte,NC,28217,704-480-3560,35.161127,-80.875643,CenterWell Montclaire - Coming Soon!,5415 South Blvd. 
+119,Durham,NC,27704,336-390-4771,36.03739729999999,-78.8927787,CenterWell Roxboro - Coming Soon!,3500 N. Roxboro St.
+120,Greenville,SC,29615,864-660-7341,34.8548671,-82.3286762,CenterWell Orchard Park,101 Orchard Park Drive 
+121,Anderson,SC,29621,864-523-8793,34.544408,-82.6320954,CenterWell Anderson,2001 East Greenville Street 
+122,Springs,LA,70726,337-473-2608,30.45967199999999,-90.9549905,CenterWell Denham Springs,2314 South Range Avenue 
+123,Hammond,LA,70401,337-509-1912,30.5024734,-90.4852804,CenterWell Hammond,2240 West Thomas Street 
+124,Vegas,NV,89032,702-905-1508,36.239929,-115.164037,CenterWell West Craig Road,1650 W Craig Rd 
+125,Vegas,NV,89030,702-996-3467,36.1948244,-115.1171631,CenterWell North Las Vegas,2335 E Lake Mead Blvd 
+126,Dallas,TX,75237,469-595-0297,32.6629624,-96.87305699999999,CenterWell Redbird,3209 W Camp Wisdom Road 
+127,Richmond,VA,23227,804-352-6636,37.634777,-77.458384,CenterWell Brook Road - Coming Soon!,8191 Brook Rd.
+128,Durham,NC,27707,984-217-5544,35.965,-78.9575,CenterWell Parkway Plaza - Coming Soon!,4201 University Dr.
+129,Raleigh,NC,27604,984-203-7860,35.8340447,-78.5843112,CenterWell Capital,3901 Capital Blvd.
+130,Columbia,SC,29206,803-859-5263,34.062541,-80.95254,CenterWell Decker Blvd,2738 Decker Blvd
+131,Seneca,SC,29678,864-660-7369,34.6889529,-82.9930888,CenterWell Seneca,366 Market Street 
+132,Kissimmee,FL,34741,407-410-4376,28.3065565,-81.4353874,CenterWell West Vine,3185 West Vine Street 
+133,Kissimmee,FL,34759,407-606-8502,28.145974,-81.445425,CenterWell Poinciana,1050 Cypress Parkway 
+134,Vegas,NV,89102,702-829-5388,36.1585677,-115.2006628,CenterWell W. Charleston,4469 West Charleston Blvd 
+135,Vegas,NV,89032,702-829-5046,36.1988187,-115.1903286,CenterWell Rancho,3860 W Lake Mead Blvd
+136,Clarksville,IN,47129,812-226-9373,38.32420949999999,-85.7667046,CenterWell Veterans,1020 Veterans Pkwy.
+137,Louisville,KY,40212,502-383-0219,38.2600642,-85.8002984,CenterWell West Louisville,2950 W. Market St. 
+138,Beach,SC,29579,843-376-6389,33.760862,-78.9670481,CenterWell Carolina Forest,3725 Renee Drive 
+139,Gastonia,NC,28056,704-741-0264,35.260524,-81.126611,CenterWell Gastonia,2910 East Franklin Boulevard
+140,Charleston,SC,29406,843-603-8978,32.9014443,-79.9866693,CenterWell North Charleston,1213 Remount Road
+141,Greenville,SC,29611,864-571-9193,34.7908034,-82.48335569999999,CenterWell Powdersville,3516 SC Highway 153 
+142,Lafayette,LA,70506,337-345-6326,30.2133344,-92.04638829999999,CenterWell Lafayette,539 Bertrand Drive 
+143,Shreveport,LA,71105,318-531-8158,32.4361778,-93.71233559999999,CenterWell Shreveport,7551 Youree Drive
+144,Vegas,NV,89119,702-479-5240,36.1013349,-115.1193868,CenterWell South Eastern,4813 South Eastern Avenue 
+145,Phoenix,AZ,85033,602-962-1810,33.481348,-112.2004436,CenterWell Maryvale,6544 W Thomas Road
+146,Murfreesboro,TN,37130,615-395-6308,35.8129483,-86.3692123,CenterWell Murfreesboro,1715 S. Rutherford Blvd.
+147,Houston,TX,77076,346-708-6254,29.87119899999999,-95.4040177,CenterWell Little York,388 West Little York Road 
+148,Raleigh,NC,27603,984-983-6694,35.725376,-78.651698,CenterWell Garner Station,1408 Garner Station Blvd. 
+149,Charlotte,NC,28208,980-385-5549,35.2256394,-80.8991685,CenterWell Wilkinson,3512 Wilkinson Blvd
+150,Spartanburg,SC,29307,864-383-1704,34.9685648,-81.8905691,CenterWell Spartanburg,1855 East Main Street
+151,Charleston,SC,29407,843-285-6912,32.8135373,-79.9969435,CenterWell West Ashley,1401 Sam Rittenberg Boulevard
+152,Morrow,GA,30260,770-746-9366,33.5693254,-84.3319161,CenterWell Morrow,1821 Mount Zion Rd 
+153,Houston,TX,77077,346-570-1579,29.73777939999999,-95.5909202,CenterWell Westside,11978 Westheimer Road
+154,Houston,TX,77087,832-536-9678,29.696793,-95.297155,CenterWell Gulfgate,545 Gulfgate Center Mall 
+155,Henderson,NV,89015,702-357-4718,36.0386608,-114.9963657,CenterWell Henderson,390 West Lake Mead Parkway
+156,Phoenix,AZ,85042,602-962-3108,33.378331,-112.036992,CenterWell South Mountain,2070 E Baseline Rd 
+157,Louisville,KY,40212,502-257-7005,38.2600642,-85.8002984,CenterWell West Louisville,2950 W. Market St. 
+158,Louisville,KY,40219,502-325-3349,38.1397745,-85.6781195,CenterWell Outer Loop,4521 Outer Loop 
+159,Louisville,KY,40208,502-325-3281,38.20345,-85.76121,CenterWell South 2nd,3151 S 2nd Street 
+160,Lexington,KY,40503,859-759-0683,38.006707,-84.5201479,CenterWell Regency Centre,171 W. Lowry Ln.
+161,Lexington,KY,40509,859-762-6491,38.0024483,-84.4443836,CenterWell Richmond Road,3101 Richmond Rd.
+162,Clarksville,IN,47129,812-226-9373,38.32420949999999,-85.7667046,CenterWell Veterans,1020 Veterans Pkwy.
+163,Indianapolis,IN,46241,317-204-2034,39.75274,-86.2462147,CenterWell Indy West,5115 W Washington Street 
+164,Indianapolis,IN,46219,317-451-4439,39.771106,-86.074544,CenterWell Irvington,5430 E. Washington St. 
+165,Albany,IN,47150,812-203-8491,38.3062418,-85.83721829999999,CenterWell New Albany,305 New Albany Plaza 
+166,Indianapolis,IN,46226,317-676-6574,39.8367175,-86.02318869999999,CenterWell Pendleton Pike,8101 Pendleton Pike
+167,Indianapolis,IN,46254,317-836-2439,39.8379847,-86.24752409999999,CenterWell Eagledale,4525 Lafayette Road
+168,City,KS,66112,913-354-7885,39.1149366,-94.7546792,CenterWell State Ave,7527 State Avenue 
+169,Olathe,KS,66061,913-379-4649,38.9115411,-94.77809889999999,CenterWell Olathe,16575 West 119th Street 
+170,City,MO,64111,816-631-8916,39.0629143,-94.5815678,CenterWell Midtown,301 East Armour Boulevard
+171,Grandview,MO,64030,816-608-8284,38.888439,-94.52641179999999,CenterWell Grandview,1513 Main Street 
+172,Independence,MO,64057,816-439-8118,39.047122,-94.351727,CenterWell Independence,19401 East 39th Street South 
+173,Independence,MO,64050,816-293-4518,39.09418549999999,-94.41881389999999,CenterWell Truman,300  N. Osage Street
+174,Raytown,MO,64133,816-608-8139,38.9952919,-94.47343160000001,CenterWell Raytown,9300 East Gregory Boulevard
+175,Fulton,GA,30349,770-230-5278,33.590143,-84.47035389999999,CenterWell Old National,6085 Old National Highway
+176,Morrow,GA,30260,770-746-9366,33.5693254,-84.3319161,CenterWell Morrow,1821 Mount Zion Rd 
+177,Atlanta,GA,30318,470-260-9423,33.7762673,-84.4530443,CenterWell Grove Park,2056 Donald Lee Hollowell Pkwy NW
+178,Atlanta,GA,30331,770-872-6946,33.7599802,-84.5039022,CenterWell Adamsville,3571 Martin Luther King Jr Dr SW 
+179,Mountain,GA,30083,985-777-3794,33.7991943,-84.22289839999999,CenterWell Stone Mountain,5244 Memorial Drive
+180,Decatur,GA,30035,770-746-9769,33.7190023,-84.21631169999999,CenterWell Wesley Chapel,2389 Wesley Chapel RD
+181,Atlanta,GA,30311,770-525-9127,33.6883924,-84.4873695,CenterWell Greenbriar,3030 Headland Dr. SW
+182,Springs,LA,70726,337-473-2608,30.45967199999999,-90.9549905,CenterWell Denham Springs,2314 South Range Avenue 
+183,Hammond,LA,70401,337-509-1912,30.5024734,-90.4852804,CenterWell Hammond,2240 West Thomas Street 
+184,Lafayette,LA,70506,337-345-6326,30.2133344,-92.04638829999999,CenterWell Lafayette,539 Bertrand Drive 
+185,Shreveport,LA,71105,318-531-8158,32.4361778,-93.71233559999999,CenterWell Shreveport,7551 Youree Drive
+186,Slidell,LA,70458,985-282-2513,30.2851945,-89.766737,CenterWell Slidell,1300 Gause Boulevard
+187,Opelousas,LA,70570,337-226-0694,30.5229754,-92.0668463,CenterWell Opelousas,1511 Commerce Blvd.
+188,City,LA,71111,318-618-6983,32.5279699,-93.70912299999999,CenterWell Bossier City,2900 East Texas Street
+189,Charles,LA,70605,337-222-3428,30.1851022,-93.2195217,CenterWell Lake Charles,4050 Ryan Street 
+190,Covington,LA,70433,985-333-7793,30.4410937,-90.08157560000001,CenterWell Covington,66 Park Place Drive 
+191,Baker,LA,70714,828-761-6715,30.581524,-91.130863,CenterWell Baker - Coming Soon!,6404 Groom Road 
+192,Louisville,KY,40212,502-383-0219,38.2600642,-85.8002984,CenterWell West Louisville,2950 W. Market St. 
+193,Louisville,KY,40219,502-325-3238,38.1397745,-85.6781195,CenterWell Outer Loop,4521 Outer Loop 
+194,Louisville,KY,40208,502-325-3281,38.20345,-85.76121,CenterWell South 2nd,3151 S 2nd Street 
+195,Lexington,KY,40503,859-759-0683,38.006707,-84.5201479,CenterWell Regency Centre,171 W. Lowry Ln.
+196,Lexington,KY,40509,859-696-6312,38.0024483,-84.4443836,CenterWell Richmond Road,3101 Richmond Rd.
